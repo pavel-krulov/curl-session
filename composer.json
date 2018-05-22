@@ -2,7 +2,9 @@
   "name": "pavel-krulov/curl-session",
   "description": "Implement CUrl session",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
+  "type": "library",
+  "homepage": "https://github.com/pavel-krulov/curl-session",
   "authors": [
     {
       "name": "Pavel Krylou",
